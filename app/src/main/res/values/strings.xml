@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">BIGIO Mobile Dev</string>
+    <string name="title_home">Home</string>
+    <string name="title_favorite">Favorite</string>
+    <string name="title_search">Search</string>
+    <string name="bookmark_add">bookmark add</string>
+    <string name="image">image</string>
+    <string name="rick_sanchez">Rick Sanchez</string>
+    <string name="human">Human</string>
+    <string name="male">Male</string>
+    <string name="spesies">Spesies</string>
+    <string name="gender">Gender</string>
+    <string name="earth">Earth</string>
+    <string name="origin">Origin</string>
+    <string name="location">Location</string>
+    <string name="empty_data">Empty Data</string>
+    <string name="characters">Characters</string>
+</resources>
