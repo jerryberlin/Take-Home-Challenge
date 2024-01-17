@@ -46,4 +46,4 @@ An android application using Rick Morty API to complete the BIGIO Take-Home-Chal
   * `search`
 
 ## <a name="apk-link"></a> APK Link :
-[[APK](https://drive.google.com/file/d/1Yqy0YWxt8KI-NjlKrNWElHfpyJrz4AMp/view?usp=sharing)
+[[APK]](https://drive.google.com/file/d/1Yqy0YWxt8KI-NjlKrNWElHfpyJrz4AMp/view?usp=sharing)
