@@ -19,15 +19,15 @@ An android application using Rick Morty API to complete the BIGIO Take-Home-Chal
 
 
 ## <a name="libraries"></a> Libraries :
-- Kotlin
-- ViewModel
-- Jetpack Navigation
-- Room
-- Paging 3
-- Dagger Hilt
-- Glide
-- Retrofit
-
+- Kotlin as the language
+- ViewModel for UI-related data management
+- Jetpack Navigation for in-app navigation
+- Room for local storage
+- Paging 3 for efficient data loading
+- Dagger Hilt for dependency injection
+- Glide for image loading
+- Retrofit for network requests
+  
 ## <a name="project-structures"></a> Project Structure :
 * `core`
   * `adapter`
